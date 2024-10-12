@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "imagem": "/assets/harry.webp",
+    "name": "Harry Potter",
+    "house": "Gryffindor",
+    "patronus": "Stag",
+    "description": "The Boy Who Lived, the main protagonist of the series."
+  },
+  {
+    "id": 2,
+    "imagem": "/assets/Hermione.webp",
+    "name": "Hermione Granger",
+    "house": "Gryffindor",
+    "patronus": "Otter",
+    "description": "One of Harry's best friends, known for her intelligence and resourcefulness."
+  },
+  {
+    "id": 3,
+    "imagem": "/assets/ronald-weasley.webp",
+    "name": "Ron Weasley",
+    "house": "Gryffindor",
+    "patronus": "Jack Russell Terrier",
+    "description": "Harry's loyal friend, from a large and loving wizarding family."
+  },
+  {
+    "id": 4,
+    "imagem": "/assets/harry.webp",
+    "name": "Severus Snape",
+    "house": "Slytherin",
+    "patronus": "Doe",
+    "description": "Potions Master and a complicated character who played a key role in Harry's story."
+  },
+  {
+    "id": 5,
+    "imagem": "/assets/Albus-dumbledore.webp",
+    "name": "Albus Dumbledore",
+    "house": "Gryffindor",
+    "patronus": "Phoenix",
+    "description": "The wise and powerful headmaster of Hogwarts."
+  }
+]
