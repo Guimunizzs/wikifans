@@ -1,0 +1,11 @@
+.details_container {
+  text-align: center;
+}
+
+.details_container img {
+  width: 20%;
+}
+
+.details_container p {
+  font-size: 1.2em;
+}

@@ -5,6 +5,10 @@
   padding: 20px;
 }
 
+.card_link {
+  text-decoration: none;
+}
+
 .card {
   background-color: #f5f5f5;
   border-radius: 10px;
