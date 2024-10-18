@@ -5,7 +5,8 @@
     "name": "Harry Potter",
     "house": "Gryffindor",
     "patronus": "Stag",
-    "description": "The Boy Who Lived, the main protagonist of the series."
+    "description": "The Boy Who Lived, the main protagonist of the series.",
+    "resume": "Luna Scamander (nascida Lovegood) é uma bruxa britânica nascida em 13 de fevereiro de 1981 e a única filha de Xenofílio e Pandora Lovegood. Durante um acidente com alguns experimentos, sua mãe faleceu quando Luna tinha nove anos e, consequentemente, a garota foi criada pelo pai, o editor da revista O Pasquim, em uma casa semelhante a uma torre pelos arredores de Ottery St. Catchpole, em Devon, Inglaterra."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "name": "Hermione Granger",
     "house": "Gryffindor",
     "patronus": "Otter",
-    "description": "One of Harry's best friends, known for her intelligence and resourcefulness."
+    "description": "One of Harry's best friends, known for her intelligence and resourcefulness.",
+    "resume": "Luna Scamander (nascida Lovegood) é uma bruxa britânica nascida em 13 de fevereiro de 1981 e a única filha de Xenofílio e Pandora Lovegood. Durante um acidente com alguns experimentos, sua mãe faleceu quando Luna tinha nove anos e, consequentemente, a garota foi criada pelo pai, o editor da revista O Pasquim, em uma casa semelhante a uma torre pelos arredores de Ottery St. Catchpole, em Devon, Inglaterra."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "name": "Ron Weasley",
     "house": "Gryffindor",
     "patronus": "Jack Russell Terrier",
-    "description": "Harry's loyal friend, from a large and loving wizarding family."
+    "description": "Harry's loyal friend, from a large and loving wizarding family.",
+    "resume": "Luna Scamander (nascida Lovegood) é uma bruxa britânica nascida em 13 de fevereiro de 1981 e a única filha de Xenofílio e Pandora Lovegood. Durante um acidente com alguns experimentos, sua mãe faleceu quando Luna tinha nove anos e, consequentemente, a garota foi criada pelo pai, o editor da revista O Pasquim, em uma casa semelhante a uma torre pelos arredores de Ottery St. Catchpole, em Devon, Inglaterra."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "name": "Severus Snape",
     "house": "Slytherin",
     "patronus": "Doe",
-    "description": "Potions Master and a complicated character who played a key role in Harry's story."
+    "description": "Potions Master and a complicated character who played a key role in Harry's story.",
+    "resume": "Luna Scamander (nascida Lovegood) é uma bruxa britânica nascida em 13 de fevereiro de 1981 e a única filha de Xenofílio e Pandora Lovegood. Durante um acidente com alguns experimentos, sua mãe faleceu quando Luna tinha nove anos e, consequentemente, a garota foi criada pelo pai, o editor da revista O Pasquim, em uma casa semelhante a uma torre pelos arredores de Ottery St. Catchpole, em Devon, Inglaterra."
   },
   {
     "id": 5,
@@ -37,6 +41,43 @@
     "name": "Albus Dumbledore",
     "house": "Gryffindor",
     "patronus": "Phoenix",
-    "description": "The wise and powerful headmaster of Hogwarts."
+    "description": "The wise and powerful headmaster of Hogwarts.",
+    "resume": "Luna Scamander (nascida Lovegood) é uma bruxa britânica nascida em 13 de fevereiro de 1981 e a única filha de Xenofílio e Pandora Lovegood. Durante um acidente com alguns experimentos, sua mãe faleceu quando Luna tinha nove anos e, consequentemente, a garota foi criada pelo pai, o editor da revista O Pasquim, em uma casa semelhante a uma torre pelos arredores de Ottery St. Catchpole, em Devon, Inglaterra."
+  },
+  {
+    "id": 6,
+    "imagem": "/assets/lord-voldemort.webp",
+    "name": "Lord Voldemort",
+    "house": "Slytherin",
+    "patronus": "None",
+    "description": "The main antagonist of the series, obsessed with conquering death and becoming the most powerful wizard.",
+    "resume": "Luna Scamander (nascida Lovegood) é uma bruxa britânica nascida em 13 de fevereiro de 1981 e a única filha de Xenofílio e Pandora Lovegood. Durante um acidente com alguns experimentos, sua mãe faleceu quando Luna tinha nove anos e, consequentemente, a garota foi criada pelo pai, o editor da revista O Pasquim, em uma casa semelhante a uma torre pelos arredores de Ottery St. Catchpole, em Devon, Inglaterra."
+  },
+  {
+    "id": 7,
+    "imagem": "/assets/draco-malfoy.webp",
+    "name": "Draco Malfoy",
+    "house": "Slytherin",
+    "patronus": "Unknown",
+    "description": "Harry's rival at Hogwarts, known for his pure-blood status and association with Death Eaters.",
+    "resume": "Luna Scamander (nascida Lovegood) é uma bruxa britânica nascida em 13 de fevereiro de 1981 e a única filha de Xenofílio e Pandora Lovegood. Durante um acidente com alguns experimentos, sua mãe faleceu quando Luna tinha nove anos e, consequentemente, a garota foi criada pelo pai, o editor da revista O Pasquim, em uma casa semelhante a uma torre pelos arredores de Ottery St. Catchpole, em Devon, Inglaterra."
+  },
+  {
+    "id": 8,
+    "imagem": "/assets/sirius-black.webp",
+    "name": "Sirius Black",
+    "house": "Gryffindor",
+    "patronus": "Dog",
+    "description": "Harry's godfather, falsely imprisoned in Azkaban, but later revealed to be innocent.",
+    "resume": "Luna Scamander (nascida Lovegood) é uma bruxa britânica nascida em 13 de fevereiro de 1981 e a única filha de Xenofílio e Pandora Lovegood. Durante um acidente com alguns experimentos, sua mãe faleceu quando Luna tinha nove anos e, consequentemente, a garota foi criada pelo pai, o editor da revista O Pasquim, em uma casa semelhante a uma torre pelos arredores de Ottery St. Catchpole, em Devon, Inglaterra."
+  },
+  {
+    "id": 9,
+    "imagem": "/assets/luna-lovegood.webp",
+    "name": "Luna Lovegood",
+    "house": "Ravenclaw",
+    "patronus": "Hare",
+    "description": "A quirky and kind-hearted student known for her unique perspective and loyalty to Harry.",
+    "resume": "Luna Scamander (nascida Lovegood) é uma bruxa britânica nascida em 13 de fevereiro de 1981 e a única filha de Xenofílio e Pandora Lovegood. Durante um acidente com alguns experimentos, sua mãe faleceu quando Luna tinha nove anos e, consequentemente, a garota foi criada pelo pai, o editor da revista O Pasquim, em uma casa semelhante a uma torre pelos arredores de Ottery St. Catchpole, em Devon, Inglaterra." 
   }
 ]

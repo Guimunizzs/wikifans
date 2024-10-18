@@ -21,6 +21,7 @@ const CharactersDetails = () => {
         <strong>Patronus:</strong> {character.patronus}
       </p>
       <p>{character.description}</p>
+      <p>{character.resume}</p>
     </div>
   );
 };
