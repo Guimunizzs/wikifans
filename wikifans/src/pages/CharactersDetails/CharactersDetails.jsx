@@ -14,14 +14,17 @@ const CharactersDetails = () => {
     <div className={styles.details_container}>
       <h1>{character.name}</h1>
       <img src={character.imagem} alt={character.name} />
-      <p>
-        <strong>House:</strong> {character.house}
-      </p>
-      <p>
-        <strong>Patronus:</strong> {character.patronus}
-      </p>
-      <p>{character.description}</p>
-      <p>{character.resume}</p>
+      <div className={styles.card_info}>
+        <p>
+          <strong>House:</strong> {character.house}
+        </p>
+        <p>
+          <strong>Patronus:</strong> {character.patronus}
+        </p>
+        <p>{character.description}</p>
+
+        <p className={styles.resume}>{character.resume}</p>
+      </div>
     </div>
   );
 };
