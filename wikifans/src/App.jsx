@@ -6,7 +6,6 @@ import "./App.css";
 
 //components
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
 
 //pages
 import Home from "./pages/Home/Home";
@@ -27,7 +26,6 @@ function App() {
             <Route path="/characters/:id" element={<CharactersDetails />} />
           </Routes>
         </div>
-        <Footer />
       </BrowserRouter>
     </div>
   );

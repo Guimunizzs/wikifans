@@ -17,6 +17,28 @@
   list-style: none;
   margin-right: 1em;
 }
+
 .list_container li a {
   padding: 0.4em 0.6em;
+}
+
+.list_container li a:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+@media (max-width: 480px) {
+  .nav_container {
+    padding: 0.5em 1em;
+  }
+
+  .list_container {
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    margin-right: 0;
+  }
+  .list_container li {
+    margin-bottom: 0.5em;
+  }
 }
