@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div>
-      <BrowserRouter basename="/wikifans">
+      <BrowserRouter>
         <Navbar />
         <div>
           <Routes>
