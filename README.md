@@ -1,32 +1,44 @@
-# WikiFans - Harry Potter Characters
+# WikiFans - Personagens de Harry Potter
 
-![Project Banner](https://link-da-imagem-ou-gif.com) <!-- Inclua uma imagem ou banner representando o projeto -->
+## 📖 Descrição
+WikiFans é um projeto dedicado aos fãs de Harry Potter, onde é possível navegar e visualizar informações detalhadas sobre personagens da série, como casa, patrono e uma breve descrição. O projeto utiliza React e Vite, com uma interface amigável e responsiva.
 
-## Descrição
+## 🌐 Link do Projeto
+Acesse o projeto [aqui](https://wikifans.vercel.app/).
 
-WikiFans é um projeto de wiki para fãs de Harry Potter, onde os usuários podem visualizar informações detalhadas sobre personagens da série, como casa, patrono e uma breve descrição. Feito com React e focado em uma interface amigável e responsiva.
+## 🚀 Tecnologias Utilizadas
 
-## Tecnologias Utilizadas
+- **Vite** - Ferramenta de build para desenvolvimento rápido.
+- **React** - Biblioteca JavaScript para interfaces dinâmicas.
+- **React Router** - Navegação entre páginas do app.
+- **JavaScript (ES6+)** - Base da lógica e estrutura do projeto.
+- **CSS3** - Estilização e layout.
+- **Git e GitHub** - Controle de versão e hospedagem.
+- **Versel** - Hospedagem do site para acesso público.
 
-- **React** - Biblioteca JavaScript para construção de interfaces.
-- **React Router** - Gerenciamento de rotas dinâmico.
-- **JavaScript (ES6)** - Linguagem principal do projeto.
-- **HTML5 e CSS3** - Estruturação e estilização da interface.
-- **Git e GitHub** - Controle de versão e repositório remoto.
-- **Vite** - Ferramenta de build rápida para desenvolvimento front-end.
-- **Flexbox e Grid CSS** - Layout responsivo.
+## ⚙️ Funcionalidades
 
-## Funcionalidades
+- Listagem de personagens e detalhes específicos.
+- Navegação entre páginas de diferentes personagens.
+- Layout responsivo para desktops e dispositivos móveis.
 
-- Visualização de lista de personagens e detalhes individuais.
-- Navegação entre diferentes personagens.
-- Layout responsivo com Flexbox e Grid.
+## 🛠️ Instalação e Execução
 
-## Instalação e Execução
+Para rodar o projeto localmente:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/wikifans.git
+   git clone https://github.com/Guimunizzs/wikifans.git
    cd wikifans
-   Instale as dependências:
-   ```
+Instale as dependências:
+
+bash
+npm install
+Execute o projeto em ambiente de desenvolvimento:
+
+bash
+npm run dev
+Para gerar o build de produção:
+
+
+Após iniciar o servidor, acesse http://localhost:5173 para navegar pelo wiki de personagens.
