@@ -36,7 +36,7 @@ Instale as dependências:
 npm install
 Execute o projeto em ambiente de desenvolvimento:
 
-```bash
+bash
 npm run dev
 Para gerar o build de produção:
 
