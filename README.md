@@ -32,11 +32,11 @@ Para rodar o projeto localmente:
    cd wikifans
 Instale as dependências:
 
-bash
+```bash
 npm install
 Execute o projeto em ambiente de desenvolvimento:
 
-bash
+```bash
 npm run dev
 Para gerar o build de produção:
 
